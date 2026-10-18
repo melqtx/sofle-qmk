@@ -1,0 +1,27 @@
+{
+  "created": "2026-10-18T15:26:57.444242+05:30",
+  "live_keys_verified": 180,
+  "live_encoder_directions_verified": 12,
+  "firmware_sha256": "f2f5f0aac8e247c98bfd5d8955f7552aa41eb77c543a11dc5da3fb1f14edf17c",
+  "files": {
+    "requirements-build.lock": "9e80c244df00d9775647ed8e6b9eca8eac0d7213561626c85c8bd5efea3b2680",
+    "README.md": "d91fbc3b09868d4b98ee498d74d4c771351f3317447b59568c650c217314992c",
+    "build.sh": "4520acc12a6c681e01df016c87817015b8874ac946619ccf970e34692b697b60",
+    "original-main.vil": "4747541c976ed22560e9c37b5c91b08030bc5b8c13a235308370fea490e15dba",
+    ".gitignore": "200b79934032b86c4126801ccf0cc3cadbfb4ec4e62b6b46b2a8a48b306c5dda",
+    "vial-source-commit.txt": "35cb30a16f5c65faf2653e3a436058c9da9974cd3cd479bf66dbf6e1da81336d",
+    "layout.vil": "94f2acd74d6a6c410957689477b64d745b9ac65db1517b2082a0b6cee0961f60",
+    "tools/verify.py": "53f62097d99704fb8a24902019ce77ddf96751c693e536d41614add6c1a6c4d5",
+    "tools/render_layouts.py": "859424119d133706a9857172e22fff43a4279d31e6b091b0d2526a64c5b047d7",
+    "dist/sofle-v2.uf2": "f2f5f0aac8e247c98bfd5d8955f7552aa41eb77c543a11dc5da3fb1f14edf17c",
+    "dist/manifest.json": "0febcbe56463ca856841cce20998698892950e7154a296b97605e9784a2accc1",
+    "dist/SHA256SUMS": "4d2136cb07fd793cf8e3b72cd87b323b20b90d5da830d7cd20a1bb7facd7e033",
+    "keymap/oled.c": "9826102576205fe59d8793cc60c05d3e262996415db676bdd1845d3b1036346c",
+    "keymap/config.h": "a3a6acd20c2df3589a422e4436252b57b888d28bd8613c9b6507ec97fd2a888b",
+    "keymap/keymap.c": "9407181adbd57f4dff9e0e2f2ccef636e5dc4d2e47f5c69a0e63a0e5cf4fe5cd",
+    "keymap/rules.mk": "43bb5ebe63ea39e29add564f9fca257e893c4f04407418b9c0ba3ae8582bb274",
+    "docs/images/symbols.svg": "6cfb02c86b8bc5bc15fc05ac7879e33d5ec4ee0df5828f80bb282daa9afab822",
+    "docs/images/navigation.svg": "fc3b05194af5551873230f3c45eee0751640d6b24750c941cfc67755be8e62b2",
+    "docs/images/base.svg": "7b31d71f46c8131c27ec4271482e62a17303fcb2a0d11e981912f6dcb8e95052"
+  }
+}

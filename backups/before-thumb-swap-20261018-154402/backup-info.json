@@ -1,0 +1,33 @@
+{
+  "created": "2026-10-18T15:44:02.607193+05:30",
+  "live_keys_verified": 180,
+  "live_encoder_directions_verified": 12,
+  "firmware_sha256": "a923c5b4c2ec40124c42035eaffc6139facc3e09708480a012cb02fb41cc753a",
+  "files": {
+    "requirements-build.lock": "9e80c244df00d9775647ed8e6b9eca8eac0d7213561626c85c8bd5efea3b2680",
+    "README.md": "affda937b50c3999657cbf8797f7e85dc0988a29894daba95351d3f53a7980c8",
+    "build.sh": "369617148d14557b0a8ded81c3f639ebaf2ba4ecc94a5f52a4ab57a6b4ab3b46",
+    "original-main.vil": "4747541c976ed22560e9c37b5c91b08030bc5b8c13a235308370fea490e15dba",
+    ".gitignore": "200b79934032b86c4126801ccf0cc3cadbfb4ec4e62b6b46b2a8a48b306c5dda",
+    "vial-source-commit.txt": "35cb30a16f5c65faf2653e3a436058c9da9974cd3cd479bf66dbf6e1da81336d",
+    "layout.vil": "fc7643ca851648b3d49078382111015d36481921153b190af7176ea679fdc83e",
+    "tools/verify.py": "72d86f9b3fd0308965b59ee107cbe01b8f8e75f4d34f29c30e5974f37fd86ea7",
+    "tools/test.sh": "33c0c62d49a63275ddf21faa1c1a76163fdd0b9ee35b963268a6328647168131",
+    "tools/render_layouts.py": "a39d1d912c6a2f4f59ee4abe7691b4e8821676c69542818a1d6b2557d6559a86",
+    "dist/sofle-v2.uf2": "a923c5b4c2ec40124c42035eaffc6139facc3e09708480a012cb02fb41cc753a",
+    "dist/manifest.json": "b58b33528e4c9a547a4822378f5f7dda598566b48c351320345ccf2b93cd0977",
+    "dist/SHA256SUMS": "df534c10733940d321bd17b5af435bf3613d4635e91abfe456209f4c87e0c2bf",
+    "keymap/oled.c": "9826102576205fe59d8793cc60c05d3e262996415db676bdd1845d3b1036346c",
+    "keymap/config.h": "8fb412b82a45817f785da647fb5b5e1952151738fa9a150d778cddfb18980b09",
+    "keymap/keymap.c": "5a5e97ba3a95691b7abc82b71993039962a5444529bb89a76d9fbb03ee6c58bf",
+    "keymap/rules.mk": "43bb5ebe63ea39e29add564f9fca257e893c4f04407418b9c0ba3ae8582bb274",
+    "keymap/tap_hold.h": "4456cf264f1f946292b9d9cf5436aa057b2bc1788736c7bf41e05ff47ec024c2",
+    "tests/home_row/test_home_row.cpp": "509865b9d5f3b886bd85dde20a02f67ef05360aae738d2481b6ffeb5e2ef86b3",
+    "tests/home_row/config.h": "50433286b7b816e2210ec9965cb45cd4c49cb03a09fa7d95633ee11e3b859d0f",
+    "tests/home_row/test.mk": "753e675d7a8bcabb83adcd3c4e1a8b83597e36a11f0be6e3028cf987d72814d8",
+    "tests/home_row/test_keymap.c": "ee5f540895816aa79551f6a0ec1e262ba986dad0a007a02fa2ff15f822f5f98a",
+    "docs/images/symbols.svg": "897c33cfb60f937fa2e11a3815caed0d22699369d177ad500c9ff7e8767674b7",
+    "docs/images/navigation.svg": "d1496dd72ef3868dc20ced357f06b59c77b390c617bdedce4be4cc7b4aef89d5",
+    "docs/images/base.svg": "fac0c0aeb44a2e067215d5ed2a58d2a9f6dc3a4f3c74b621289bf0f8512c3590"
+  }
+}

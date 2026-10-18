@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1056" height="470" viewBox="0 0 1056 470" role="img" aria-labelledby="title desc">
+<title id="title">Sofle V2 — Base</title>
+<desc id="desc">Firmware layout, labeled as typed through macOS Colemak. Faded keys inherit Base.</desc>
+<rect width="1056" height="470" rx="12" fill="#15171c"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" text-anchor="middle">
+<text x="528" y="30" fill="#f1f3f7" font-size="22" font-weight="500">Base</text>
+<text x="528" y="54" fill="#bfc5cf" font-size="15">Left: Cmd · Ctrl · Bksp · Repeat/SYM · Shift    |    Right: Space · Enter · Ctrl · Bksp/NAV · Cmd</text>
+<g data-matrix="0,0" data-keycode="KC_ESCAPE" opacity="1">
+<title>KC_ESCAPE</title>
+<rect x="32" y="106.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="59" y="133.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Esc</text></g>
+<g data-matrix="0,1" data-keycode="KC_1" opacity="1">
+<title>KC_1</title>
+<rect x="92" y="98.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="119" y="125.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">1</text></g>
+<g data-matrix="0,2" data-keycode="KC_2" opacity="1">
+<title>KC_2</title>
+<rect x="152" y="83.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="179" y="110.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">2</text></g>
+<g data-matrix="0,3" data-keycode="KC_3" opacity="1">
+<title>KC_3</title>
+<rect x="212" y="76" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="239" y="103.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">3</text></g>
+<g data-matrix="0,4" data-keycode="KC_4" opacity="1">
+<title>KC_4</title>
+<rect x="272" y="83.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="299" y="110.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">4</text></g>
+<g data-matrix="0,5" data-keycode="KC_5" opacity="1">
+<title>KC_5</title>
+<rect x="332" y="91.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="359" y="118.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">5</text></g>
+<g data-matrix="5,5" data-keycode="KC_6" opacity="1">
+<title>KC_6</title>
+<rect x="662.0" y="91.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="689.0" y="118.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">6</text></g>
+<g data-matrix="5,4" data-keycode="KC_7" opacity="1">
+<title>KC_7</title>
+<rect x="722.0" y="83.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="749.0" y="110.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">7</text></g>
+<g data-matrix="5,3" data-keycode="KC_8" opacity="1">
+<title>KC_8</title>
+<rect x="782.0" y="76" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="809.0" y="103.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">8</text></g>
+<g data-matrix="5,2" data-keycode="KC_9" opacity="1">
+<title>KC_9</title>
+<rect x="842.0" y="83.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="869.0" y="110.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">9</text></g>
+<g data-matrix="5,1" data-keycode="KC_0" opacity="1">
+<title>KC_0</title>
+<rect x="902.0" y="98.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="929.0" y="125.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">0</text></g>
+<g data-matrix="5,0" data-keycode="KC_GRAVE" opacity="1">
+<title>KC_GRAVE</title>
+<rect x="962.0" y="106.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="989.0" y="133.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">`</text></g>
+<g data-matrix="1,0" data-keycode="KC_TAB" opacity="1">
+<title>KC_TAB</title>
+<rect x="32" y="166.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="59" y="193.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Tab</text></g>
+<g data-matrix="1,1" data-keycode="KC_Q" opacity="1">
+<title>KC_Q</title>
+<rect x="92" y="158.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="119" y="185.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Q</text></g>
+<g data-matrix="1,2" data-keycode="KC_W" opacity="1">
+<title>KC_W</title>
+<rect x="152" y="143.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="179" y="170.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">W</text></g>
+<g data-matrix="1,3" data-keycode="KC_E" opacity="1">
+<title>KC_E</title>
+<rect x="212" y="136" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="239" y="163.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">F</text></g>
+<g data-matrix="1,4" data-keycode="KC_R" opacity="1">
+<title>KC_R</title>
+<rect x="272" y="143.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="299" y="170.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">P</text></g>
+<g data-matrix="1,5" data-keycode="KC_T" opacity="1">
+<title>KC_T</title>
+<rect x="332" y="151.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="359" y="178.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">G</text></g>
+<g data-matrix="6,5" data-keycode="KC_Y" opacity="1">
+<title>KC_Y</title>
+<rect x="662.0" y="151.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="689.0" y="178.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">J</text></g>
+<g data-matrix="6,4" data-keycode="KC_U" opacity="1">
+<title>KC_U</title>
+<rect x="722.0" y="143.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="749.0" y="170.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">L</text></g>
+<g data-matrix="6,3" data-keycode="KC_I" opacity="1">
+<title>KC_I</title>
+<rect x="782.0" y="136" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="809.0" y="163.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">U</text></g>
+<g data-matrix="6,2" data-keycode="KC_O" opacity="1">
+<title>KC_O</title>
+<rect x="842.0" y="143.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="869.0" y="170.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Y</text></g>
+<g data-matrix="6,1" data-keycode="KC_P" opacity="1">
+<title>KC_P</title>
+<rect x="902.0" y="158.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="929.0" y="185.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">;</text></g>
+<g data-matrix="6,0" data-keycode="KC_BSPACE" opacity="1">
+<title>KC_BSPACE</title>
+<rect x="962.0" y="166.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="989.0" y="193.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Bksp</text></g>
+<g data-matrix="2,0" data-keycode="KC_LALT" opacity="1">
+<title>KC_LALT</title>
+<rect x="32" y="226.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="59" y="253.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Opt</text></g>
+<g data-matrix="2,1" data-keycode="KC_A" opacity="1">
+<title>KC_A</title>
+<rect x="92" y="218.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="119" y="245.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">A</text></g>
+<g data-matrix="2,2" data-keycode="KC_S" opacity="1">
+<title>KC_S</title>
+<rect x="152" y="203.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="179" y="230.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">R</text></g>
+<g data-matrix="2,3" data-keycode="0x2807" opacity="1">
+<title>0x2807</title>
+<rect x="212" y="196" width="54" height="54" rx="6" fill="#624d78" stroke="#424854"/>
+<text x="239" y="215.0" dominant-baseline="central" fill="#f4f6fa" font-size="10.5">tap S</text>
+<text x="239" y="232.0" dominant-baseline="central" fill="#d6dfeb" font-size="10.5">hold Cmd</text></g>
+<g data-matrix="2,4" data-keycode="KC_F" opacity="1">
+<title>KC_F</title>
+<rect x="272" y="203.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="299" y="230.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">T</text></g>
+<g data-matrix="2,5" data-keycode="KC_G" opacity="1">
+<title>KC_G</title>
+<rect x="332" y="211.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="359" y="238.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">D</text></g>
+<g data-matrix="7,5" data-keycode="KC_H" opacity="1">
+<title>KC_H</title>
+<rect x="662.0" y="211.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="689.0" y="238.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">H</text></g>
+<g data-matrix="7,4" data-keycode="KC_J" opacity="1">
+<title>KC_J</title>
+<rect x="722.0" y="203.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="749.0" y="230.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">N</text></g>
+<g data-matrix="7,3" data-keycode="0x380e" opacity="1">
+<title>0x380e</title>
+<rect x="782.0" y="196" width="54" height="54" rx="6" fill="#624d78" stroke="#424854"/>
+<text x="809.0" y="215.0" dominant-baseline="central" fill="#f4f6fa" font-size="10.5">tap E</text>
+<text x="809.0" y="232.0" dominant-baseline="central" fill="#d6dfeb" font-size="10.5">hold Cmd</text></g>
+<g data-matrix="7,2" data-keycode="KC_L" opacity="1">
+<title>KC_L</title>
+<rect x="842.0" y="203.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="869.0" y="230.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">I</text></g>
+<g data-matrix="7,1" data-keycode="KC_SCOLON" opacity="1">
+<title>KC_SCOLON</title>
+<rect x="902.0" y="218.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="929.0" y="245.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">O</text></g>
+<g data-matrix="7,0" data-keycode="KC_QUOTE" opacity="1">
+<title>KC_QUOTE</title>
+<rect x="962.0" y="226.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="989.0" y="253.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">&#x27;</text></g>
+<g data-matrix="3,0" data-keycode="KC_LSHIFT" opacity="1">
+<title>KC_LSHIFT</title>
+<rect x="32" y="286.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="59" y="313.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Shift</text></g>
+<g data-matrix="3,1" data-keycode="KC_Z" opacity="1">
+<title>KC_Z</title>
+<rect x="92" y="278.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="119" y="305.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Z</text></g>
+<g data-matrix="3,2" data-keycode="KC_X" opacity="1">
+<title>KC_X</title>
+<rect x="152" y="263.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="179" y="290.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">X</text></g>
+<g data-matrix="3,3" data-keycode="KC_C" opacity="1">
+<title>KC_C</title>
+<rect x="212" y="256" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="239" y="283.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">C</text></g>
+<g data-matrix="3,4" data-keycode="KC_V" opacity="1">
+<title>KC_V</title>
+<rect x="272" y="263.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="299" y="290.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">V</text></g>
+<g data-matrix="3,5" data-keycode="KC_B" opacity="1">
+<title>KC_B</title>
+<rect x="332" y="271.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="359" y="298.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">B</text></g>
+<g data-matrix="4,5" data-keycode="KC_MUTE" opacity="1">
+<title>KC_MUTE</title>
+<circle cx="419" cy="268.0" r="25" fill="#343945" stroke="#454c59"/>
+<text x="419" y="268.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Vol</text></g>
+<g data-matrix="9,5" data-keycode="KC_MPLY" opacity="1">
+<title>KC_MPLY</title>
+<circle cx="629.0" cy="268.0" r="25" fill="#343945" stroke="#454c59"/>
+<text x="629.0" y="268.0" dominant-baseline="central" fill="#f4f6fa" font-size="15">Scroll</text></g>
+<g data-matrix="8,5" data-keycode="KC_N" opacity="1">
+<title>KC_N</title>
+<rect x="662.0" y="271.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="689.0" y="298.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">K</text></g>
+<g data-matrix="8,4" data-keycode="KC_M" opacity="1">
+<title>KC_M</title>
+<rect x="722.0" y="263.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="749.0" y="290.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">M</text></g>
+<g data-matrix="8,3" data-keycode="KC_COMMA" opacity="1">
+<title>KC_COMMA</title>
+<rect x="782.0" y="256" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="809.0" y="283.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">,</text></g>
+<g data-matrix="8,2" data-keycode="KC_DOT" opacity="1">
+<title>KC_DOT</title>
+<rect x="842.0" y="263.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="869.0" y="290.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">.</text></g>
+<g data-matrix="8,1" data-keycode="KC_SLASH" opacity="1">
+<title>KC_SLASH</title>
+<rect x="902.0" y="278.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="929.0" y="305.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">/</text></g>
+<g data-matrix="8,0" data-keycode="KC_RSHIFT" opacity="1">
+<title>KC_RSHIFT</title>
+<rect x="962.0" y="286.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="989.0" y="313.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Shift</text></g>
+<g data-matrix="4,0" data-keycode="KC_LGUI" opacity="1">
+<title>KC_LGUI</title>
+<rect x="122.0" y="338.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="149.0" y="365.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Cmd</text></g>
+<g data-matrix="4,1" data-keycode="KC_LCTRL" opacity="1">
+<title>KC_LCTRL</title>
+<rect x="182.0" y="323.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="209.0" y="350.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Ctrl</text></g>
+<g data-matrix="4,2" data-keycode="KC_BSPACE" opacity="1">
+<title>KC_BSPACE</title>
+<rect x="242.0" y="325.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="269.0" y="352.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Bksp</text></g>
+<g data-matrix="4,3" data-keycode="0x4100" opacity="1">
+<title>0x4100</title>
+<rect x="302.0" y="331.0" width="54" height="54" rx="6" fill="#285577" stroke="#424854"/>
+<text x="329.0" y="350.0" dominant-baseline="central" fill="#f4f6fa" font-size="10.5">tap Repeat</text>
+<text x="329.0" y="367.0" dominant-baseline="central" fill="#d6dfeb" font-size="10.5">hold SYM</text></g>
+<g data-matrix="4,4" data-keycode="KC_LSHIFT" opacity="1">
+<title>KC_LSHIFT</title>
+<rect x="392" y="331.0" width="54" height="84.0" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="419" y="373.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Shift</text></g>
+<g data-matrix="9,4" data-keycode="KC_SPACE" opacity="1">
+<title>KC_SPACE</title>
+<rect x="602.0" y="331.0" width="54" height="84.0" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="629.0" y="373.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Space</text></g>
+<g data-matrix="9,3" data-keycode="KC_ENTER" opacity="1">
+<title>KC_ENTER</title>
+<rect x="692" y="331.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="719" y="358.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Enter</text></g>
+<g data-matrix="9,2" data-keycode="KC_RCTRL" opacity="1">
+<title>KC_RCTRL</title>
+<rect x="752" y="325.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="779" y="352.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Ctrl</text></g>
+<g data-matrix="9,1" data-keycode="0x422a" opacity="1">
+<title>0x422a</title>
+<rect x="812" y="323.5" width="54" height="54" rx="6" fill="#285577" stroke="#424854"/>
+<text x="839" y="342.5" dominant-baseline="central" fill="#f4f6fa" font-size="10.5">tap Bksp</text>
+<text x="839" y="359.5" dominant-baseline="central" fill="#d6dfeb" font-size="10.5">hold NAV</text></g>
+<g data-matrix="9,0" data-keycode="KC_RGUI" opacity="1">
+<title>KC_RGUI</title>
+<rect x="872" y="338.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="899" y="365.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Cmd</text></g>
+</g></svg>

@@ -1,0 +1,4 @@
+/.venv/
+/.tools/
+/vial-qmk/
+__pycache__/

@@ -1,0 +1,12 @@
+{
+  "installed": true,
+  "file": "sofle-v2.uf2",
+  "sha256": "f2f5f0aac8e247c98bfd5d8955f7552aa41eb77c543a11dc5da3fb1f14edf17c",
+  "size": 93184,
+  "layers": 3,
+  "key_bindings_verified": 180,
+  "encoder_directions_verified": 12,
+  "vial_uid": 12888985424971681029,
+  "build_id": "0x00B0B343",
+  "source_commit": "dd43959ae5c08d8a28d38a1acf7b04e86b14a344"
+}
