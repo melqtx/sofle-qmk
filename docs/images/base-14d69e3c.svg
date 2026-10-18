@@ -4,7 +4,7 @@
 <rect width="1056" height="470" rx="12" fill="#15171c"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" text-anchor="middle">
 <text x="528" y="30" fill="#f1f3f7" font-size="22" font-weight="500">Base</text>
-<text x="528" y="54" fill="#bfc5cf" font-size="15">Left: Cmd · Ctrl · Bksp · Repeat/SYM · Shift    |    Right: Space · Enter · Ctrl · Bksp/NAV · Cmd</text>
+<text x="528" y="54" fill="#bfc5cf" font-size="15">Left: Cmd · Ctrl · Bksp · Repeat/SYM · Shift    |    Right: Space · Enter · Bksp/NAV · Ctrl · Cmd</text>
 <g data-matrix="0,0" data-keycode="KC_ESCAPE" opacity="1">
 <title>KC_ESCAPE</title>
 <rect x="32" y="106.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
@@ -236,15 +236,15 @@
 <title>KC_ENTER</title>
 <rect x="692" y="331.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
 <text x="719" y="358.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Enter</text></g>
-<g data-matrix="9,2" data-keycode="KC_RCTRL" opacity="1">
-<title>KC_RCTRL</title>
-<rect x="752" y="325.0" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
-<text x="779" y="352.0" dominant-baseline="central" fill="#f4f6fa" font-size="17">Ctrl</text></g>
-<g data-matrix="9,1" data-keycode="0x422a" opacity="1">
+<g data-matrix="9,2" data-keycode="0x422a" opacity="1">
 <title>0x422a</title>
-<rect x="812" y="323.5" width="54" height="54" rx="6" fill="#285577" stroke="#424854"/>
-<text x="839" y="342.5" dominant-baseline="central" fill="#f4f6fa" font-size="10.5">tap Bksp</text>
-<text x="839" y="359.5" dominant-baseline="central" fill="#d6dfeb" font-size="10.5">hold NAV</text></g>
+<rect x="752" y="325.0" width="54" height="54" rx="6" fill="#285577" stroke="#424854"/>
+<text x="779" y="344.0" dominant-baseline="central" fill="#f4f6fa" font-size="10.5">tap Bksp</text>
+<text x="779" y="361.0" dominant-baseline="central" fill="#d6dfeb" font-size="10.5">hold NAV</text></g>
+<g data-matrix="9,1" data-keycode="KC_RCTRL" opacity="1">
+<title>KC_RCTRL</title>
+<rect x="812" y="323.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>
+<text x="839" y="350.5" dominant-baseline="central" fill="#f4f6fa" font-size="17">Ctrl</text></g>
 <g data-matrix="9,0" data-keycode="KC_RGUI" opacity="1">
 <title>KC_RGUI</title>
 <rect x="872" y="338.5" width="54" height="54" rx="6" fill="#2c3039" stroke="#424854"/>

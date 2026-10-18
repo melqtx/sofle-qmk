@@ -1,5 +1,5 @@
-![Base](docs/images/base-f57f6dba.svg)
+![Base](docs/images/base-14d69e3c.svg)
 
-![Symbols](docs/images/symbols-d95c4ca8.svg)
+![Symbols](docs/images/symbols-a50a514c.svg)
 
-![Navigation / numbers / F-keys](docs/images/navigation-90cd6c99.svg)
+![Navigation / numbers / F-keys](docs/images/navigation-53866adc.svg)

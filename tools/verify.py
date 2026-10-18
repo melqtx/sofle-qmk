@@ -44,7 +44,7 @@ def verify():
  assert len(export['layout'])==len(export['encoder_layout'])==3
  config=(ROOT/'keymap/config.h').read_text();assert '#define DYNAMIC_KEYMAP_LAYER_COUNT 3' in config
  assert actual[4*6:4*6+5]==[0xe3,0xe0,0x2a,0x4100,0xe1]
- assert actual[9*6:9*6+5]==[0xe7,0x422a,0xe4,0x28,0x2c]
+ assert actual[9*6:9*6+5]==[0xe7,0xe4,0x422a,0x28,0x2c]
  assert actual[2*6+3]==0x2807 and actual[7*6+3]==0x380e
  uf2=ROOT/'dist/sofle-v2.uf2';b=uf2.read_bytes();assert len(b)%512==0
  for i in range(len(b)//512):

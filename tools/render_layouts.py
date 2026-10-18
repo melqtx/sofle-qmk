@@ -82,7 +82,7 @@ if __name__ == '__main__':
     output.mkdir(parents=True, exist_ok=True)
     images = []
     for index, stem, name, instruction in [
-        (0, 'base', 'Base', 'Left: Cmd · Ctrl · Bksp · Repeat/SYM · Shift    |    Right: Space · Enter · Ctrl · Bksp/NAV · Cmd'),
+        (0, 'base', 'Base', 'Left: Cmd · Ctrl · Bksp · Repeat/SYM · Shift    |    Right: Space · Enter · Bksp/NAV · Ctrl · Cmd'),
         (1, 'symbols', 'Symbols', 'Hold left SYM; release to return'),
         (2, 'navigation', 'Navigation / numbers / F-keys', 'Tap right Bksp/NAV to delete; hold for navigation; release to return'),
     ]:

@@ -14,7 +14,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         {KC_BSPC, KC_P, KC_O, KC_I, KC_U, KC_Y},
         {KC_QUOTE, KC_SCLN, KC_L, CMD_E, KC_J, KC_H},
         {KC_RSFT, KC_SLASH, KC_DOT, KC_COMMA, KC_M, KC_N},
-        {KC_RGUI, LT(2, KC_BSPC), KC_RCTL, KC_ENTER, KC_SPACE, KC_MPLY},
+        {KC_RGUI, KC_RCTL, LT(2, KC_BSPC), KC_ENTER, KC_SPACE, KC_MPLY},
     },
     [1] = { // Symbols
         {KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS},

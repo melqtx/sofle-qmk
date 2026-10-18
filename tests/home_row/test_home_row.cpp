@@ -148,8 +148,8 @@ TEST_F(SofleHomeRow, SymbolsQuickChordWorksOnEitherHand) {
 TEST_F(SofleHomeRow, SymbolsHoldAfterRepeatTapAndNavPriority) {
     TestDriver driver;
     InSequence sequence;
-    KeymapKey o(0, 2, 6, KC_O), repeat(0, 3, 4, LT(1, KC_NO)), nav(0, 1, 9, LT(2, KC_BSPC));
-    KeymapKey nav_sym(1, 1, 9, KC_TRNS), repeat_sym(1, 3, 4, KC_TRNS), repeat_nav(2, 3, 4, KC_TRNS), nav_nav(2, 1, 9, KC_TRNS);
+    KeymapKey o(0, 2, 6, KC_O), repeat(0, 3, 4, LT(1, KC_NO)), nav(0, 2, 9, LT(2, KC_BSPC));
+    KeymapKey nav_sym(1, 2, 9, KC_TRNS), repeat_sym(1, 3, 4, KC_TRNS), repeat_nav(2, 3, 4, KC_TRNS), nav_nav(2, 2, 9, KC_TRNS);
     set_keymap({o, repeat, nav, nav_sym, repeat_sym, repeat_nav, nav_nav});
     EXPECT_REPORT(driver, (KC_O)); EXPECT_EMPTY_REPORT(driver);
     EXPECT_REPORT(driver, (KC_O)); EXPECT_EMPTY_REPORT(driver);
@@ -168,7 +168,7 @@ TEST_F(SofleHomeRow, SymbolsHoldAfterRepeatTapAndNavPriority) {
 TEST_F(SofleHomeRow, NavigationTapDeletesOnceAndDoubleTapDeletesTwice) {
     TestDriver driver;
     InSequence sequence;
-    KeymapKey nav(0, 1, 9, LT(2, KC_BSPC));
+    KeymapKey nav(0, 2, 9, LT(2, KC_BSPC));
     set_keymap({nav});
     for (int i = 0; i < 3; ++i) {
         EXPECT_REPORT(driver, (KC_BSPC)); EXPECT_EMPTY_REPORT(driver);
@@ -180,7 +180,7 @@ TEST_F(SofleHomeRow, NavigationTapDeletesOnceAndDoubleTapDeletesTwice) {
 TEST_F(SofleHomeRow, NavigationHoldAfterTypingDoesNotDeleteOnRelease) {
     TestDriver driver;
     InSequence sequence;
-    KeymapKey a(0, 1, 2, KC_A), nav(0, 1, 9, LT(2, KC_BSPC));
+    KeymapKey a(0, 1, 2, KC_A), nav(0, 2, 9, LT(2, KC_BSPC));
     set_keymap({a, nav});
     EXPECT_REPORT(driver, (KC_A)); EXPECT_EMPTY_REPORT(driver);
     tap_key(a);
@@ -194,7 +194,7 @@ TEST_F(SofleHomeRow, NavigationHoldAfterTypingDoesNotDeleteOnRelease) {
 TEST_F(SofleHomeRow, NavigationQuickChordMovesLeftWithoutBackspace) {
     TestDriver driver;
     InSequence sequence;
-    KeymapKey nav(0, 1, 9, LT(2, KC_BSPC)), a(0, 1, 2, KC_A), left(2, 1, 2, KC_LEFT);
+    KeymapKey nav(0, 2, 9, LT(2, KC_BSPC)), a(0, 1, 2, KC_A), left(2, 1, 2, KC_LEFT);
     set_keymap({nav, a, left});
     nav.press(); run_one_scan_loop();
     EXPECT_REPORT(driver, (KC_LEFT)); EXPECT_EMPTY_REPORT(driver);
@@ -207,7 +207,7 @@ TEST_F(SofleHomeRow, NavigationQuickChordMovesLeftWithoutBackspace) {
 TEST_F(SofleHomeRow, NavigationQuickChordTypesNumberOnSameHand) {
     TestDriver driver;
     InSequence sequence;
-    KeymapKey nav(0, 1, 9, LT(2, KC_BSPC)), h(0, 5, 7, KC_H), four(2, 5, 7, KC_4);
+    KeymapKey nav(0, 2, 9, LT(2, KC_BSPC)), h(0, 5, 7, KC_H), four(2, 5, 7, KC_4);
     set_keymap({nav, h, four});
     nav.press(); run_one_scan_loop();
     EXPECT_REPORT(driver, (KC_4)); EXPECT_EMPTY_REPORT(driver);

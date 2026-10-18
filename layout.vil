@@ -77,8 +77,8 @@
       ],
       [
         "KC_RGUI",
-        "0x422a",
         "KC_RCTRL",
+        "0x422a",
         "KC_ENTER",
         "KC_SPACE",
         "KC_MPLY"
